@@ -5,3 +5,6 @@ target/
 .classpath
 .project
 .settings
+
+# SAP
+dev_jco_rfc.trc
